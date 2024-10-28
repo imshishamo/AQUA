@@ -33,6 +33,7 @@ An accurate real-time monitoring system is essential to automate analysis and im
 #### Implementation with Labelme
 - Use Labelme for polygon-based foam annotations.
 - Convert JSON labels into mask images (foam vs. background).
+
 ![bubble](https://github.com/user-attachments/assets/30b57e1a-1445-4c60-bfbc-27b4b50a2765)
 
 
