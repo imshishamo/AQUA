@@ -30,6 +30,8 @@ An accurate real-time monitoring system is essential to automate analysis and im
   - More precise than traditional object detection.
   - Widely used in medical and satellite imaging.
 
+![Unet](https://github.com/user-attachments/assets/2431ea1b-29de-44f1-a086-1169e360e186)
+
 #### Implementation with Labelme
 - Use Labelme for polygon-based foam annotations.
 - Convert JSON labels into mask images (foam vs. background).
