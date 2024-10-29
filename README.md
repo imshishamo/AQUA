@@ -2,7 +2,11 @@
 ## Quick start
 > conda create env -n Unet
 > conda activate Unet
-> git clone 
+> git clone git@github.com:imshishamo/BubbleCoverageTracker.git
+> cd BubbleCoverageTracker
+> pip install -r requirements.txt
+> python train.py --learning-rate 0.01 --batch-size 12 --epochs 150
+> python predict.py -i image.jpg -o output.jpg 
 
 ## Background
 As human civilization advances, global water pollution has caused significant economic losses and impacted daily life. Our aim is to develop on-site monitoring technology to detect pollutant types using:
