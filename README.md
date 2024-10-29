@@ -1,11 +1,17 @@
 # Bubble Converage Tracker
 ## Quick start
 > conda create env -n Unet
+
 > conda activate Unet
+
 > git clone git@github.com:imshishamo/BubbleCoverageTracker.git
+
 > cd BubbleCoverageTracker
+
 > pip install -r requirements.txt
+
 > python train.py --learning-rate 0.01 --batch-size 12 --epochs 150
+
 > python predict.py -i image.jpg -o output.jpg 
 
 ## Background
