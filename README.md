@@ -1,4 +1,8 @@
 # Bubble Converage Tracker
+## Quick start
+> conda create env -n Unet
+> conda activate Unet
+> git clone 
 
 ## Background
 As human civilization advances, global water pollution has caused significant economic losses and impacted daily life. Our aim is to develop on-site monitoring technology to detect pollutant types using:
