@@ -1,4 +1,4 @@
-# **A**dvanced **Q**uantification for **U**Net-based **A**nalysis
+# Advanced Quantification for UNet-based Analysis
 ## Quick start
 > conda create env -n Unet
 
